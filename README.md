@@ -1,10 +1,10 @@
 # Movie-Recommendation-System-using-ML
 
-This project demonstrates a basic recommendation system using Python and pandas. The recommender system suggests movies based on similarity to other movies. While it’s not state-of-the-art, it provides a good foundation for understanding collaborative filtering and correlation-based recommendation systems.
+This project demonstrates a basic recommendation system using Python and pandas. The recommender system suggests movies based on similarity to other movies using collaborative filtering and correlation-based recommendation systems.
 
 
 ## Overview  
-In this project, we:  
+In this project, I:  
 1. Used movie ratings data to recommend similar movies.  
 2. Explored the dataset to find patterns in ratings.  
 3. Created a user-movie matrix to compute correlations between movies.  
